@@ -1,5 +1,5 @@
 # random hexadecimal generator (react)
-This is my random hex color generator written using react and tailwind, its identical to my [hex-gen](https://github.com/YoungDev7/hex-gen) app that ive made in javascript and plain css. Purpose of this project was learn react and tailwind. Features are the same as the javascript version except that its responsive for mobile devices.
+This is my random hex color generator written using react and tailwind, its identical to my [hex-gen](https://github.com/jakubp03/hex-gen) app that ive made in javascript and plain css. Purpose of this project was learn react and tailwind. Features are the same as the javascript version except that its responsive for mobile devices.
 
 ## Features
 - random color generation
@@ -18,7 +18,7 @@ This is my random hex color generator written using react and tailwind, its iden
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/YoungDev7/hex-gen-react.git
+git clone https://github.com/jakubp03/hex-gen-react.git
 ```
 
 2. Navigate to the project directory:
